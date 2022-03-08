@@ -4,12 +4,23 @@ div {
     color: black;
 }
 h1 {
-    text-align: left;
     border-style: dashed;
+    border-radius: 200px;
     font-family: Garamond, serif;
 }
 p {
     border-style: dotted;
-    border-color: lavender;
+    border-color: rgb(30, 40, 49);
+    border-radius: 2px;
     font-family: sans-serif, serif;
+}
+.page-title {
+    text-decoration: wavy;
+    text-align: center;
+}
+ul{
+    text-align: left;
+}
+.projs {
+    text-align: left;
 }
