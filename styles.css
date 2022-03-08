@@ -7,12 +7,13 @@ h1 {
     border-style: dashed;
     border-radius: 200px;
     font-family: Garamond, serif;
+    font-weight: bold;
 }
 p {
     border-style: dotted;
     border-color: rgb(30, 40, 49);
     border-radius: 2px;
-    font-family: sans-serif, serif;
+    font-family: 'Courier New', Courier, monospace;
 }
 .page-title {
     text-decoration: wavy;
@@ -20,7 +21,9 @@ p {
 }
 ul{
     text-align: left;
+    color: coral;
 }
 .projs {
     text-align: left;
 }
+
