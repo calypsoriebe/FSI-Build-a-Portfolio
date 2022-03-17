@@ -11,7 +11,7 @@ h1 {
 }
 p {
     border-style: dotted;
-    border-color: rgb(30, 40, 49);
+    border-color: rgb(10, 40, 49);
     border-radius: 2px;
     font-family: 'Courier New', Courier, monospace;
 }
